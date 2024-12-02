@@ -1,0 +1,20 @@
+[
+    {
+        "team": "Barcelona",
+        "league": "La Liga",
+        "country": "Spain",
+        "founded": 1899
+    },
+    {
+        "team": "Manchester United",
+        "league": "Premier League",
+        "country": "England",
+        "founded": 1878
+    },
+    {
+        "team": "Bayern Munich",
+        "league": "Bundesliga",
+        "country": "Germany",
+        "founded": 1900
+    }
+]
